@@ -78,7 +78,10 @@
 - AI 市场建议器（社区）— lorine93s/polymarket-ai-market-suggestor
   - 仓库：https://github.com/lorine93s/polymarket-ai-market-suggestor
   - 说明：结合新闻与情绪生成市场建议。
-
+- PolyMind (社区) — 实时 Polymarket 交易警报与多 AI 分析
+  - 网站: https://polyminds.netlify.app/
+    - 说明: 实时监控 12 种信号类型（鲸鱼下注、成交量飙升、协调钱包等），结合多 AI 分析（Groq、Claude、Gemini）。免费版每天 5 条实时信号。
+    
 ## 数据抓取与分析工具
 - poly_data（社区）— 数据抓取/结构化流水线
   - 仓库：https://github.com/warproxxx/poly_data
