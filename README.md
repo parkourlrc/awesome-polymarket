@@ -80,6 +80,7 @@
   - 说明：结合新闻与情绪生成市场建议。
 
 ## 数据抓取与分析工具
+- [EdgeMarket](https://edgemarket.co) — Polymarket and crypto-perp analytics: public Oracle register (confirmed 5-min calls, misses included), operators ranked by measured alpha, funding/OI/liquidations across four venues. Free observer tier.
 - poly_data（社区）— 数据抓取/结构化流水线
   - 仓库：https://github.com/warproxxx/poly_data
   - 说明：抓取市场、订单事件（Goldsky 子图）并生成结构化交易数据 CSV。
