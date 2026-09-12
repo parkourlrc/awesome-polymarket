@@ -80,6 +80,9 @@
   - 说明：结合新闻与情绪生成市场建议。
 
 ## 数据抓取与分析工具
+- 0xinsider research（社区）— 已结算大额交易的研究数据与 SQL
+  - 仓库：https://github.com/0xinsider/research
+  - 说明：四项研究的 SQL、原始查询输出与按市场聚类的 bootstrap 脚本，涵盖钱包评级能否预测结果（67,531 笔 1 万美元以上买入）以及体育市场的价格校准、聪明钱与下注时点（411,770 笔买入）。CC BY 4.0。
 - poly_data（社区）— 数据抓取/结构化流水线
   - 仓库：https://github.com/warproxxx/poly_data
   - 说明：抓取市场、订单事件（Goldsky 子图）并生成结构化交易数据 CSV。
