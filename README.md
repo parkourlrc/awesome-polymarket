@@ -139,3 +139,4 @@
 ---
 
 > 免责声明：本列表仅信息汇总，不构成投资建议或交易建议。使用任何机器人或做市工具需自担风险并遵守所在司法辖区法律法规。
+- [CleanLedger](https://muskgogogo131-collab.github.io/cleanledger/) ([GitHub](https://github.com/muskgogogo131-collab/cleanledger)) - Open-core client-side & MIT CLI tax/PnL auditor built on Polymarket Data API v2; pairs FIFO cost basis across CTF trades, redemptions, splits, and merges to fix Koinly 0-basis income bugs and Oct-29 double-taxation.
